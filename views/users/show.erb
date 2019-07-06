@@ -1,0 +1,6 @@
+<h2>Hello, <%= @user.salutation %>!</h2>
+<ul>
+  <% @user.tweets.each do |potato| %>
+	<li><%=potato.content%></li>
+  <% end %>
+</ul>

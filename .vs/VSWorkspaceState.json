@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\config",
+    "\\db",
+    "\\db\\migrate",
+    "\\models",
+    "\\views",
+    "\\views\\Users"
+  ],
+  "SelectedNode": "\\views\\Users\\index.erb",
+  "PreviewInSolutionExplorer": false
+}
